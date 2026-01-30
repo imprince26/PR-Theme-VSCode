@@ -2,7 +2,9 @@
   "name": "PrincePatelPR26",
   "displayName": "PR-Theme",
   "description": "PR-Theme: A sleek dark VS Code theme with vibrant green accents, optimized for readability and modern development workflows.",
+  "publisher": "PrincePatelPR26",
   "version": "0.0.1",
+  "icon": "images/icon.jpg",
   "engines": {
     "vscode": "^1.108.1"
   },
@@ -17,5 +19,9 @@
         "path": "./themes/PR-Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imprince26/PR-Theme-VSCode.git"
   }
 }
