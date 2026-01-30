@@ -23,23 +23,4 @@ The theme's color palette is carefully calibrated to reduce eye strain during ex
 - **UI Harmony**: Consistent theming across editor, sidebar, terminal, and status bar
 - **Performance Optimized**: Lightweight design with no impact on VS Code's responsiveness
 
-<!-- ## Visual Showcase
-
-### Editor Interface
-![Editor View](screenshots/editor-view.png)
-
-*Clean, high-contrast editor with green accent highlights*
-
-### Syntax Highlighting
-![Code Syntax](screenshots/syntax-example.png)
-
-*Balanced color scheme for clear code readability*
-
-### Terminal Integration
-![Integrated Terminal](screenshots/terminal-integration.png)
-
-*Matching terminal colors for seamless workflow*
-
---- -->
-
 *Elevate your coding experience with PR-Theme.*
