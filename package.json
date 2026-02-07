@@ -1,9 +1,9 @@
 {
   "name": "PrincePatelPR26",
   "displayName": "PR-Theme",
-  "description": "PR-Theme: A sleek dark VS Code theme with vibrant green accents, optimized for readability and modern development workflows.",
+  "description": "A premium dark theme pack for VS Code with crisp contrast, refined accents, and carefully tuned syntax colors for long coding sessions.",
   "publisher": "PrincePatelPR26",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.108.1"
@@ -14,9 +14,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "PR-Theme",
+        "label": "PR-Theme Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/PR-Theme-color-theme.json"
+      },
+      {
+        "label": "PR-Theme Premium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PR-Theme-premium-color-theme.json"
+      },
+      {
+        "label": "PR-Theme Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PR-Theme-obsidian-color-theme.json"
       }
     ]
   },

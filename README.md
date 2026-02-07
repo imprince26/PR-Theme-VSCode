@@ -1,26 +1,30 @@
 # PR-Theme
 
-A sophisticated dark color scheme for Visual Studio Code that combines deep black backgrounds with vibrant green accents to create a modern, high-contrast coding environment.
+PR-Theme is a premium dark theme pack for Visual Studio Code, built for long coding sessions. It delivers crisp contrast, refined accents, and carefully tuned syntax colors across languages and UI surfaces.
 
-## Introduction
+## What Makes It Different
 
-PR-Theme is crafted for developers who value clarity, elegance, and productivity in their coding workspace. Inspired by minimalist design principles, it features a deep black canvas that minimizes distractions while vibrant green highlights draw attention to active elements, selections, and key syntax components.
+PR-Theme prioritizes readability without sacrificing personality. Deep backgrounds reduce glare, while restrained accents provide clear focus on selections, cursors, and active UI. Every token color is chosen to separate meaning at a glance, improving scanning, navigation, and comprehension.
 
-The theme's color palette is carefully calibrated to reduce eye strain during extended sessions, with warm tones for data types and cool accents for functions and keywords. Whether you're working on JavaScript, TypeScript, Python, or web technologies, PR-Theme provides consistent, readable syntax highlighting that enhances code comprehension.
+## Theme Variants
 
-## Key Features
+- **PR-Theme Classic**: Signature green accents on deep black for a sharp, modern look
+- **PR-Theme Premium**: Softer contrast and elegant highlights for extended focus
+- **PR-Theme Obsidian**: Blue-gray accents for a cooler, subdued visual profile
 
-- **Immersive Dark Experience**: Deep black backgrounds (#0a0a0a, #0d0d0d) create a focused, distraction-free environment
-- **Signature Green Accents**: Vibrant green (#2eb67d) used for cursors, active borders, buttons, and selection highlights
-- **Thoughtful Syntax Coloring**:
-  - Keywords and operators in energetic green
-  - Functions highlighted in professional blue (#61afef)
-  - Variables distinguished in warm red (#e06c75)
-  - Strings in fresh green tones (#98c379)
-  - Comments in subtle gray (#5c6370) with italic styling
-  - Numbers and types in balanced yellow-orange hues
-- **Comprehensive Language Support**: Optimized for JavaScript, TypeScript, JSON, HTML, CSS, Python, and more
-- **UI Harmony**: Consistent theming across editor, sidebar, terminal, and status bar
-- **Performance Optimized**: Lightweight design with no impact on VS Code's responsiveness
+## Design Principles
 
-*Elevate your coding experience with PR-Theme.*
+- **Long-Session Comfort**: Balanced contrast that reduces eye fatigue without flattening detail
+- **High-Definition Syntax**: Distinct colors for keywords, functions, variables, strings, and types
+- **UI Consistency**: Cohesive styling for editor, sidebar, terminal, tabs, and notifications
+- **Language Coverage**: Optimized for JavaScript, TypeScript, JSON, HTML, CSS, Python, and more
+
+## Preview
+
+| Preview |
+| --- |
+| **PR-Theme Classic**<br>![PR-Theme Classic](images/pr-theme-classic.png) |
+| **PR-Theme Premium**<br>![PR-Theme Premium](images/pr-theme-premium.png) |
+| **PR-Theme Obsidian**<br>![PR-Theme Obsidian](images/pr-theme-obsidian.png) |
+
+If you want a dark theme that feels premium, remains readable for hours, and makes your code stand out with clarity, PR-Theme is built for you.
